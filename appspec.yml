@@ -2,9 +2,8 @@ version: 0.0
 os: linux
 
 files:
-  - source: output/Portal.html
-    destination: /var/www/html/index.html
-overwrite: true
+  - source: output/index.html
+    destination: /var/www/html/
 
 hooks:
   AfterInstall:

@@ -15,6 +15,7 @@ phases:
       # - cp appspec.yml .
       - mkdir -p scripts
       - cp restart.sh scripts/
+      - cp Portal.html index.html
 
   post_build:
     commands:
