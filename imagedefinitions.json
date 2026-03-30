@@ -1,0 +1,6 @@
+[
+  {
+    "name": "cs-app-container",
+    "imageUri": "354493396671.dkr.ecr.ap-southeast-2.amazonaws.com/cs-ecr-repository"
+  }
+]
